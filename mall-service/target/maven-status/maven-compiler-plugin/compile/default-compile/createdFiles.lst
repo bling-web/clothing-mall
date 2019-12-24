@@ -1,0 +1,7 @@
+com\tim\mall\model\Goods.class
+com\tim\mall\model\User.class
+com\tim\mall\service\impl\GoodsServiceImpl.class
+com\tim\mall\common\Context.class
+com\tim\mall\mapper\UserMapper.class
+com\tim\mall\service\GoodsService.class
+com\tim\mall\mapper\GoodsMapper.class
